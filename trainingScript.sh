@@ -10,7 +10,7 @@ echo "# The Early-Modern OCR Project (eMOP) "
 echo "# "
 echo "# Copyright 2013 - eMOP  "
 echo "# "
-echo "# Modified by kci.yoo@sk.com "
+echo "# Modified by kcisoul
 echo "# "
 echo "#######################################################"
 echo " "
